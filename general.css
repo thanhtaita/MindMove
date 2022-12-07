@@ -1,0 +1,95 @@
+/* 
+--- 01 TYPOGRAPHY SYSTEM 
+-Font styles
+Antic Didone
+
+- Font sizes (px) 
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+14
+24
+62
+16
+20
+48
+
+- Font weights
+300
+
+- Line heights
+17.5
+10
+
+- Letter spacing
+1
+-1
+
+--- 02 COLORS
+font: #fff4e6
+#e6dbce - little dark yellow for background in pricing section
+#5c1b1b - dark wine red
+
+
+- Tints:
+#fffcf8
+
+- Shades: 
+#99928a
+
+- Accents:
+
+- Greys
+#121212
+
+--- 05 SHADOWS
+
+
+--- 06 BORDER-RADIUS
+20
+90
+
+--- 07 WHITESPACE
+420
+48
+120
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 */
+
+@font-face {
+  font-family: "Loki";
+  src: url(./fonts/Loki-Regular.otf) format("opentype");
+  font-weight: normal;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* color: #fff4e6; */
+  color: #fff;
+  font-weight: 300;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Antic Didone", san-serif;
+}
+
+.btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 9rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.black_background {
+  height: 100vh;
+  width: 100vw;
+}
