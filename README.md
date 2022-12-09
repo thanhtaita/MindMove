@@ -1,4 +1,4 @@
-#MindMove
+#MindMove https://thanhtaita.github.io/Dance-Web/
 
 My project is called “MindMove,” where I majorly created a website and a game for the website. Basically, this is a website of a dancing Academy, which I imagine, 
 called MindMove. MindMove is a place where people can come and register for dancing classes and workshops. My first intention for the final project is to create
@@ -18,7 +18,6 @@ I don’t know. Have fun playing it.
 
 
 Links:
-Website: https://thanhtaita.github.io/Dance-Web/
 
 Beta Tutorial Game: https://editor.p5js.org/thanhtaita/full/1lRnCov2P
 
