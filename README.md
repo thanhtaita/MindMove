@@ -1,4 +1,6 @@
-#MindMove https://thanhtaita.github.io/Dance-Web/
+#MindMove
+
+Web link: https://thanhtaita.github.io/MindMove/
 
 My project is called “MindMove,” where I majorly created a website and a game for the website. Basically, this is a website of a dancing Academy, which I imagine, 
 called MindMove. MindMove is a place where people can come and register for dancing classes and workshops. My first intention for the final project is to create
