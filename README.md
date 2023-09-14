@@ -2,22 +2,15 @@
 
 Web link: https://thanhtaita.github.io/MindMove/
 
-My project is called “MindMove,” where I majorly created a website and a game for the website. Basically, this is a website of a dancing Academy, which I imagine, 
-called MindMove. MindMove is a place where people can come and register for dancing classes and workshops. My first intention for the final project is to create
-something related to my dancing hobby, which has contributed significantly to my personal growth and personality. Back in Vietnam, I was an active member of a dancing
-organization called “B2C - Bound The Crush,” They are also my big inspiration for this project. B2C usually has weekly private workshops for members, which has been 
-growing fast recently. B2C has a strong design team among all the dancing organizations in Vietnam (I attached the link below you can take a look at it), where people 
-come together to create and appreciate the beauty of art. As a second-year computer science student, I’m thinking about contributing to building a website for B2C, 
-a place to introduce the organization’s brand to become a business potentially. That’s why the last ART 151 project is a chance for me to start this plan. I try to use
-colors that express my personality, a little dark theme, contrast colors, and minimalism on this website. I also have two versions of a game where students can come 
-and practice to expand their dancing knowledge. One version is a beta version which is less difficult than the actual one. By playing this tutorial game, students, 
-or even potential customers, can gain points for receiving gifts or discounts when purchasing plans from MindMove. I built this game but not any other kind of promotion
-because it can help boost the website’s engagement, and it also can be a game that people can play daily to learn and practice their dancing skills. Compared to sending
-emails to customers to let them get random promotions, I think this game is also an effective way, or even better, for the business to build its brand and gain customer
-engagement. I will not spoil more details, so you can have a whole experience when you play it. The game links are on the first page of the website. You can simply 
-click the buttons “Beta Tutorial Game” or “Tutorial Game” to start playing. I added sound into the game, but sometimes it just does not work for some reasons 
-I don’t know. Have fun playing it.
+My project is titled 'MindMove,' and it primarily involves the development of a website and an accompanying game. MindMove is essentially an online platform designed to serve as a hub for a dancing academy of the same name. It provides individuals with the opportunity to register for dancing classes and workshops. My primary motivation behind this project is my passion for dancing, which has had a profound impact on my personal growth and character development.
 
+During my time in Vietnam, I was an active member of a dance organization called 'B2C - Bound The Crush,' which also serves as a significant source of inspiration for my project. B2C regularly conducts private workshops for its members, and it has experienced rapid growth in recent times. B2C is renowned for its exceptional design team within the Vietnamese dance community (I have provided a link below for your reference), where individuals come together to create and appreciate the art of dance. As a web developer, I saw an opportunity to contribute to B2C's growth by creating a website that could help establish the organization as a potential business entity. I aimed to incorporate colors that reflect my personal style, employing a slightly darker theme, contrasting color schemes, and a minimalist design approach in the website's development.
+
+Additionally, I developed two versions of a dancing game that students could use to enhance their dancing knowledge. The first version serves as a tutorial, providing a less challenging experience compared to the actual game. By engaging with this tutorial, students and potential customers have the chance to earn points, which they can redeem for gifts or discounts when purchasing dance class plans from MindMove. I chose to develop this game as a means of increasing engagement with the website while also providing a daily learning and practice tool for aspiring dancers.
+
+In comparison to traditional methods of sending promotional emails to customers, I believe this game offers a more effective way to build the MindMove brand and engage customers. To avoid giving away too many details, I invite you to explore the full experience by playing the game. You can access the game links on the first page of the website by simply clicking on the buttons labeled 'Beta Tutorial Game' or 'Tutorial Game.' Please note that sound has been integrated into the game, although it may not function properly at times for reasons beyond my control.
+
+I hope you enjoy playing the game and exploring the MindMove website.
 
 Links:
 
