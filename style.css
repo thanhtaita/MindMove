@@ -10,6 +10,15 @@
 /* HEADER */
 /**************************/
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
 .first-page {
   background-image: url(./img/header2_img.jpg);
   background-size: cover;
@@ -418,20 +427,13 @@ select {
 }
 
 .footer-section {
-  /* background: linear-gradient(
-      to left,
-      rgba(255, 255, 255, 0.2),
-      rgba(255, 255, 255, 0.3),
-      rgba(255, 255, 255, 0.3)
-    ),
-    url(./img/img2.jpg) no-repeat;
-  background-size: cover;
-  background-position-y: -55rem; */
-}
-
-.footer-section {
   /* border-top: #c4c3c39d solid 2px; */
   background-color: #efefef5a;
+  position: relative;
+}
+
+.game-section {
+  position: absolute;
 }
 
 .footer {
