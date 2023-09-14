@@ -135,7 +135,7 @@ function checkRoutine() {
 
 function draw() {
   background("white");
-  song.play();
+  // song.play();
 
   if (stage == 1) intro();
   else if (stage == 2) instructionShow();
